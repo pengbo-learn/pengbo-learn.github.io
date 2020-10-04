@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "为什么写博客？"
+date:   2020-10-05 00:00:53 +0800
+categories: jekyll update
+---
+
+- 朋友圈不合适了，微博界面太丑，本地写日记不方便浏览。
+
+- 支持代码和公式，
+```python
+class VectorP(Property):
+    def __init__(self, symbol):
+        super().__init__(symbol)
+```
+$$2\int_{0}^{\infty}\mathbb{e}^{-x^2}\mathbb{d}x=\sqrt{\pi}$$.
+
+
