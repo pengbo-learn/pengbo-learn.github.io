@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "为什么写博客？"
-date:   2020-10-05 00:00:53 +0800
+date:   2020-10-05 00:10:40 +0800
 categories: jekyll update
 ---
 
