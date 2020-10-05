@@ -20,7 +20,7 @@
 
 title: 数学爱编程
 email: kakarotto@pku.edu.cn
-description: 惜君只欲苦死留. 
+description: 惜君只欲苦死留 
 # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -53,6 +53,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-markdown: kramdown
-kramdown:
-   math_engine: mathjax
