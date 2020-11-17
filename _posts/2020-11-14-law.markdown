@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "开庭之后"
+categories: jekyll update
+---
+
+{% include latex.html %}
+
+## 心跳
+
+![image](http://ww1.sinaimg.cn/large/9c45a0acly1gkoju6uz8zj20v91jlqm5.jpg)
+
+和预想的不一样，没有正面的冲突。
+
+更像是毛选里集中指导下的民主，法官向双方了解情况，最后由法官做决断。
+
+作为司法机关的法院的运作有很强的行政气息。
+
+## 无产阶级的法律
+
+法律是统治阶级意志的体现，是国家的统治工具。
+
+不是公平与正义。
+
+今天看到了这句话，最早应该是马克思提出来的。
+
+突然释然了，很多事情一下子就明白了。
+
+党的根本领导制度是民主集中制，其中首要的就是个人服从组织。
+
+## 心态
+
+这是理性的。
+
+心胸应该放宽广一些。
+
+找准目标，早日为组织作出自己的贡献！
+
+![image](http://ww1.sinaimg.cn/large/9c45a0acly1gkoljm1rbnj217q11gb29.jpg)
+
+<br/> 
+
+[在issues中讨论](https://github.com/pengbo-learn/pengbo-learn.github.io/issues)
+
+
+
+
