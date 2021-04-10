@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "外法内儒"
+title:  "外儒内法"
 categories: jekyll update
 ---
 
@@ -42,7 +42,7 @@ categories: jekyll update
 
 理想主义有唯心的意思，先目的而后实际，现实主义者则相反。
 
-## 外法内儒
+## 外儒内法
 
 理想主义的长于其目的的纯粹与稳定，短于可实践性。
 
